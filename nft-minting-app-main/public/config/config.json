@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x40B8133A90Fe1df063DA8F63d9c72Ae905029753",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x40b8133a90fe1df063da8f63d9c72ae905029753",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sauce Kingdom",
+  "SYMBOL": "SKNFT",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sauce-kingdom",
+  "SHOW_BACKGROUND": true
+}
